@@ -1,3 +1,7 @@
+#
+# ~/.config/dunst/dunstrc: configuration file for dunst(1)
+#
+
 [global]
 #font = Iosevka Term 10
 font = Terminus (TTF) 9

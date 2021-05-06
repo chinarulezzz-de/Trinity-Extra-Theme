@@ -1,5 +1,5 @@
 #
-# ~/.dircolors: configuration file for dircolors
+# ~/.dircolors: Trinity configuration file for dircolors(1)
 #
 
 # Trinity configuration file for dircolors, a utility to help you set the
@@ -38,7 +38,6 @@ TERM terminator
 TERM tmux*
 TERM vt100
 TERM xterm*
-
 # Below are the color init strings for the basic file types.
 # One can use codes for 256 or more colors supported by modern terminals.
 # The default color codes use the capabilities of an 8 color terminal

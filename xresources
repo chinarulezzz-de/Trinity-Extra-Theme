@@ -1,4 +1,7 @@
 ! Trinity color theme.
+!
+! include this file into your ~/.Xresources by following line:
+!  #include "path to this file"
 
 *.color0:       #000000
 *.color1:       #800000
